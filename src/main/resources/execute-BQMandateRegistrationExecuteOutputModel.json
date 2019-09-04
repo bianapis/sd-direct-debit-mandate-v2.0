@@ -1,0 +1,13 @@
+{
+  "executeResponseRecord" : {},
+  "mandateRegistrationInstanceRecord" : {
+    "directDebitMandateBankReference" : "798527",
+    "directDebitMandateAccountReference" : "701919",
+    "directDebitMandateValidDates" : "directDebitMandateValidDates",
+    "directDebitMandateCustomerReference" : "714787",
+    "directDebitMandateTerms" : "directDebitMandateTerms"
+  },
+  "mandateRegistrationExecuteActionTaskRecord" : {},
+  "mandateRegistrationExecuteRecordReference" : "MRERR720801",
+  "mandateRegistrationExecuteActionTaskReference" : "MREATR794498"
+}

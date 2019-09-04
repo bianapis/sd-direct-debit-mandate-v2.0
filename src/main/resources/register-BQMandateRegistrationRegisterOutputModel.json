@@ -1,0 +1,12 @@
+{
+  "mandateRegistrationInstanceStatus" : "mandateRegistrationInstanceStatus",
+  "mandateRegistrationInstanceRecord" : {
+    "correspondenceInstanceReference" : "798634",
+    "correspondenceContent" : "correspondenceContent",
+    "documentContent" : "documentContent",
+    "documentDirectoryEntryInstanceReference" : "755892"
+  },
+  "mandateRegistrationInstanceReference" : "MRIR758607",
+  "mandateRegistrationInitiateActionReference" : "MRIAR701945",
+  "mandateRegistrationInitiateActionRecord" : {}
+}

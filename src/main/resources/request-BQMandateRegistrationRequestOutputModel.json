@@ -1,0 +1,17 @@
+{
+  "mandateRegistrationRequestActionTaskRecord" : {},
+  "mandateRegistrationInstanceRecord" : {
+    "directDebitMandateBankReference" : "727783",
+    "directDebitMandateAccountReference" : "726046",
+    "directDebitMandateValidDates" : "directDebitMandateValidDates",
+    "directDebitMandateCustomerReference" : "764192",
+    "correspondenceInstanceReference" : "759550",
+    "correspondenceContent" : "correspondenceContent",
+    "documentContent" : "documentContent",
+    "documentDirectoryEntryInstanceReference" : "765192",
+    "directDebitMandateTerms" : "directDebitMandateTerms"
+  },
+  "mandateRegistrationRequestActionTaskReference" : "MRRATR754188",
+  "mandateRegistrationRequestRecordReference" : "MRRRR741098",
+  "requestResponseRecord" : {}
+}

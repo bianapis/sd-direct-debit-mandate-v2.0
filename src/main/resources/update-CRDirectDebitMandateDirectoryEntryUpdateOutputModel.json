@@ -1,0 +1,10 @@
+{
+  "directDebitMandateDirectoryEntryUpdateActionTaskReference" : "DDMDEUATR700901",
+  "cRDirectDebitMandateDirectoryEntryInstanceRecord" : {
+    "mandatedCustomerReference" : "759389",
+    "mandateCollectionValidPeriod" : "mandateCollectionValidPeriod",
+    "mandateDescription" : "mandateDescription"
+  },
+  "updateResponseRecord" : {},
+  "directDebitMandateDirectoryEntryUpdateActionTaskRecord" : {}
+}

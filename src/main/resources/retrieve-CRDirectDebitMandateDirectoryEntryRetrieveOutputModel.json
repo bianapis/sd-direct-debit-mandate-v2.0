@@ -1,0 +1,20 @@
+{
+  "directDebitMandateDirectoryEntryRetrieveActionResponse" : "directDebitMandateDirectoryEntryRetrieveActionResponse",
+  "cRDirectDebitMandateDirectoryEntryInstanceRecord" : {
+    "mandatedCustomerReference" : "753422",
+    "mandateCollectionValidPeriod" : "mandateCollectionValidPeriod",
+    "mandateDescription" : "mandateDescription"
+  },
+  "directDebitMandateDirectoryEntryRetrieveActionTaskReference" : "DDMDERATR770382",
+  "directDebitMandateDirectoryEntryInstanceReportRecord" : {
+    "directDebitMandateDirectoryEntryInstanceReportType" : "directDebitMandateDirectoryEntryInstanceReportType",
+    "directDebitMandateDirectoryEntryInstanceReport" : {},
+    "directDebitMandateDirectoryEntryInstanceReportData" : "directDebitMandateDirectoryEntryInstanceReportData"
+  },
+  "directDebitMandateDirectoryEntryInstanceAnalysis" : {
+    "directDebitMandateDirectoryEntryInstanceAnalysisData" : "directDebitMandateDirectoryEntryInstanceAnalysisData",
+    "directDebitMandateDirectoryEntryInstanceAnalysisReportType" : "directDebitMandateDirectoryEntryInstanceAnalysisReportType",
+    "directDebitMandateDirectoryEntryInstanceAnalysisReport" : {}
+  },
+  "directDebitMandateDirectoryEntryRetrieveActionTaskRecord" : {}
+}

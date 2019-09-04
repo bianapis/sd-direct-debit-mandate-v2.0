@@ -1,0 +1,17 @@
+{
+  "mandateRegistrationUpdateActionTaskReference" : "MRUATR725516",
+  "mandateRegistrationInstanceRecord" : {
+    "directDebitMandateBankReference" : "701660",
+    "directDebitMandateAccountReference" : "781433",
+    "directDebitMandateValidDates" : "directDebitMandateValidDates",
+    "directDebitMandateCustomerReference" : "764720",
+    "correspondenceInstanceReference" : "732757",
+    "correspondenceContent" : "correspondenceContent",
+    "directDebitMandateCustomerPseudonym" : "directDebitMandateCustomerPseudonym",
+    "documentContent" : "documentContent",
+    "documentDirectoryEntryInstanceReference" : "778214",
+    "directDebitMandateTerms" : "directDebitMandateTerms"
+  },
+  "updateResponseRecord" : {},
+  "mandateRegistrationUpdateActionTaskRecord" : {}
+}

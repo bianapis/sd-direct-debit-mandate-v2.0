@@ -1,0 +1,29 @@
+{
+  "mandateRegistrationInstanceReport" : {
+    "mandateRegistrationInstanceReport" : {},
+    "mandateRegistrationInstanceReportRecord" : {},
+    "mandateRegistrationInstanceReportParameters" : "mandateRegistrationInstanceReportParameters",
+    "mandateRegistrationInstanceReportType" : "mandateRegistrationInstanceReportType"
+  },
+  "mandateRegistrationRetrieveActionTaskRecord" : {},
+  "mandateRegistrationInstanceRecord" : {
+    "directDebitMandateBankReference" : "799348",
+    "directDebitMandateAccountReference" : "724308",
+    "directDebitMandateValidDates" : "directDebitMandateValidDates",
+    "directDebitMandateCustomerReference" : "739681",
+    "correspondenceInstanceReference" : "720508",
+    "correspondenceContent" : "correspondenceContent",
+    "directDebitMandateCustomerPseudonym" : "directDebitMandateCustomerPseudonym",
+    "documentContent" : "documentContent",
+    "documentDirectoryEntryInstanceReference" : "775613",
+    "directDebitMandateTerms" : "directDebitMandateTerms"
+  },
+  "mandateRegistrationRetrieveActionResponse" : "mandateRegistrationRetrieveActionResponse",
+  "mandateRegistrationRetrieveActionTaskReference" : "MRRATR716028",
+  "mandateRegistrationInstanceAnalysis" : {
+    "mandateRegistrationInstanceAnalysisReport" : {},
+    "mandateRegistrationInstanceAnalysisParameters" : "mandateRegistrationInstanceAnalysisParameters",
+    "mandateRegistrationInstanceAnalysisRecord" : {},
+    "mandateRegistrationInstanceAnalysisReportType" : "mandateRegistrationInstanceAnalysisReportType"
+  }
+}
