@@ -29,7 +29,7 @@ public class CRDirectDebitMandateDirectoryEntryUpdateOutputModel   {
   public CRDirectDebitMandateDirectoryEntryUpdateInputModelCRDirectDebitMandateDirectoryEntryInstanceRecord getCRDirectDebitMandateDirectoryEntryInstanceRecord() {
     return cRDirectDebitMandateDirectoryEntryInstanceRecord;
   }
-
+   @JsonProperty("cRDirectDebitMandateDirectoryEntryInstanceRecord")
   public void setCRDirectDebitMandateDirectoryEntryInstanceRecord(CRDirectDebitMandateDirectoryEntryUpdateInputModelCRDirectDebitMandateDirectoryEntryInstanceRecord cRDirectDebitMandateDirectoryEntryInstanceRecord) {
     this.cRDirectDebitMandateDirectoryEntryInstanceRecord = cRDirectDebitMandateDirectoryEntryInstanceRecord;
   }

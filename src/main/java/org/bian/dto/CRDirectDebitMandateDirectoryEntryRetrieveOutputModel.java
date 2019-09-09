@@ -35,7 +35,8 @@ public class CRDirectDebitMandateDirectoryEntryRetrieveOutputModel   {
   public CRDirectDebitMandateDirectoryEntryRetrieveOutputModelCRDirectDebitMandateDirectoryEntryInstanceRecord getCRDirectDebitMandateDirectoryEntryInstanceRecord() {
     return cRDirectDebitMandateDirectoryEntryInstanceRecord;
   }
-
+   
+  @JsonProperty("cRDirectDebitMandateDirectoryEntryInstanceRecord")
   public void setCRDirectDebitMandateDirectoryEntryInstanceRecord(CRDirectDebitMandateDirectoryEntryRetrieveOutputModelCRDirectDebitMandateDirectoryEntryInstanceRecord cRDirectDebitMandateDirectoryEntryInstanceRecord) {
     this.cRDirectDebitMandateDirectoryEntryInstanceRecord = cRDirectDebitMandateDirectoryEntryInstanceRecord;
   }
